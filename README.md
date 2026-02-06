@@ -61,7 +61,7 @@
   <a href="https://x.com/azmainur_rahman" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
   </a>
-  <a href="mailto:contact@azmain.com">
+  <a href="mailto:kaziazmainurrahman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </div>
