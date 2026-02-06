@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **System Design & Advanced Java**
 - 🏆 Achievements: **ICPC 2024 Online Preliminary - Honorable Mention**
 - 🎯 **Goal:** Passionate about crafting digital solutions for every real-world problem I encounter.
-- ⚡ Fun fact: I built a Learning Platform called **"CholoSikhai"** using Java & Spring Boot!
+- ⚡ Fun fact: I built a Learning Platform called **"CholoSikhai"** using Java, Spring Boot & MongoDB!
 
 <br/>
 
