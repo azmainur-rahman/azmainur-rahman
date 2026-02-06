@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img align="right" height="150" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif"  />
+  <img align="right" height="140" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif"  />
 </div>
 
 ### <div align="left">👨‍💻 About Me</div>
@@ -19,6 +19,14 @@
 - 🏆 Achievements: **ICPC 2024 Online Preliminary - Honorable Mention**
 - 🎯 **Goal:** Passionate about crafting digital solutions for every real-world problem I encounter.
 - ⚡ Fun fact: I built a Learning Platform called **"CholoSikhai"** using Java & Spring Boot!
+
+<br/>
+
+<div align="left">
+  <img src="https://img.shields.io/github/followers/azmainur-rahman?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/azmainur-rahman?style=social" alt="Total Stars" />
+  <img src="https://img.shields.io/github/forks/azmainur-rahman?style=social" alt="Forks" />
+</div>
 
 <br/>
 
@@ -33,19 +41,6 @@
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,firebase" /> |
 | **Tools & IDE** | <img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,vscode" /> |
 
-</div>
-
-<br/>
-
-### <div align="center">📊 Coding Stats</div>
-
-<div align="center">
-  <a href="https://github.com/azmainur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=azmainur-rahman&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/azmainur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainur-rahman&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-  </a>
 </div>
 
 <br/>
