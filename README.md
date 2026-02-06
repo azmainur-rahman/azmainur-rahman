@@ -43,7 +43,7 @@
 ### <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
