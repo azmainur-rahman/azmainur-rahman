@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on **Spring Boot & Flutter Projects**
 - 🌱 I’m currently learning **System Design & Advanced Java**
 - 🏆 Achievements: **ICPC 2024 Online Preliminary - Honorable Mention**
-- 🎯 Goals: **ICPC World Finals** & **Full Stack Engineering**
-- ⚡ Fun fact: I built a matchmaking app called **"Biye Korben"** using JavaFX!
+- 🎯 **Goal: Passionate about crafting digital solutions for every real-world problem I encounter.**
+- ⚡ Fun fact: I built a Learning Platform called **"CholoSikhai"** using Java & Spring Boot!
 
 <br/>
 
@@ -34,7 +34,7 @@
 ### <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmainur-rahman&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmainur-rahman&show_icons=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainur-rahman&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="160" alt="languages graph" />
 </div>
 
@@ -43,7 +43,7 @@
 ### <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
