@@ -1,87 +1,58 @@
-<h1 align="left">Hello...</h1>
-
-###
-
-<p align="left">My name is Kazi Azmainur Rahman and I'm a CSE Undergrad, Bangladesh.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif"  />
-
-###
-
-<p align="left">✨ Creating bugs since: 2024<br><br>📚 I'm currently learning: Java, Spring Boot, System Design & Flutter.<br><br>🎯 Goals: Solve Real Life Problems & Full Stack Engineering<br><br>🎲 Fun fact: I built a Learning Platform called "CholoSikhai" using Java,  SpringBoot & MongoDB!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Kazi+Azmainur+Rahman;CSE+Undergrad+%40+Bangladesh;Java+%26+Flutter+Enthusiast" alt="Typing SVG" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmainur-rahman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainur-rahman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="right" height="180" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif"  />
 </div>
 
-###
+### <div align="left">👨‍💻 About Me</div>
 
-<div align="left">
+- 🔭 I’m currently working on **Spring Boot & Flutter Projects**
+- 🌱 I’m currently learning **System Design & Advanced Java**
+- 🏆 Achievements: **ICPC 2024 Online Preliminary - Honorable Mention**
+- 🎯 Goals: **ICPC World Finals** & **Full Stack Engineering**
+- ⚡ Fun fact: I built a matchmaking app called **"Biye Korben"** using JavaFX!
+
+<br/>
+
+### <div align="center">🛠️ Tech Stack</div>
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|:---:|:---:|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,js" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=html,css,react,flutter" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,firebase" /> |
+| **Tools & IDE** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,androidstudio" /> |
+
+</div>
+
+<br/>
+
+### <div align="center">📊 GitHub Stats</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azmainur-rahman&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainur-rahman&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+### <div align="center">🐍 Contribution Snake</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/azmainur-rahman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://x.com/azmainur_rahman" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/snake.svg" alt="Snake animation" />
-
-###
