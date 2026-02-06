@@ -24,8 +24,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/github/followers/azmainur-rahman?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/azmainur-rahman?style=social" alt="Total Stars" />
-  <img src="https://img.shields.io/github/forks/azmainur-rahman?style=social" alt="Forks" />
+  <a href="https://github.com/azmainur-rahman?tab=repositories">
+    <img src="https://img.shields.io/github/stars/azmainur-rahman?style=social" alt="Total Stars" />
+  </a>
 </div>
 
 <br/>
