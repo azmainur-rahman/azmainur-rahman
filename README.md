@@ -1,203 +1,131 @@
 <div align="center">
 
-# Hey, I'm Azmainur 👋
-
-### I turn ideas into things that actually work.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=56D4DD&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+Product+Builder;Exploring+AI%2C+Software+Engineering+%26+Security;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Rebuild" alt="Typing introduction" />
+<img src="./assets/readme-banner.svg" width="100%" alt="Azmainur — Building things. Figuring things out." />
 
 <br/>
 
-<a href="https://www.azmainurrahman.me">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-56D4DD?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-<a href="https://www.linkedin.com/in/azmainur-rahman/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.azmainurrahman.me"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-58D6D0?style=for-the-badge&labelColor=101820" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/azmainur-rahman/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-58D6D0?style=for-the-badge&labelColor=101820" alt="LinkedIn" /></a>
+<a href="mailto:kaziazmainurrahman@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-58D6D0?style=for-the-badge&labelColor=101820" alt="Email" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=azmainur-rahman&style=flat-square&color=56D4DD&label=CURIOUS+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=azmainur-rahman&style=flat-square&color=58D6D0&label=VISITORS" alt="Profile views" />
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
 
-```text
-Name       : Kazi Azmainur Rahman
-Role       : CSE Undergraduate · Developer · Builder
-University : Southeast University
-Mindset    : Learn by building. Improve by breaking.
-```
+### `01 / THE PERSON BEHIND THE CODE`
 
-I'm a 4th-year Computer Science & Engineering student who enjoys turning ideas into real, usable software.
+</div>
 
-I don't want to limit myself to a single technology. I enjoy exploring different parts of software engineering—from frontend interfaces and backend systems to databases, AI-powered applications, and security.
+I'm **Kazi Azmainur Rahman** — a 4th-year Computer Science & Engineering student at Southeast University, Bangladesh.
 
-Most of my learning happens while building something, getting stuck, debugging it, and figuring out a better way.
+I like taking an idea from *"what if?"* to something people can actually use. My interests move across full-stack development, backend systems, AI-powered applications, computer vision research, and security. I'm still learning my way through all of it—and that's part of the fun.
 
-> I'm not here to pretend I know everything. I'm here to build, understand, and get better.
+> **I don't want to just collect technologies. I want to understand what I can make with them.**
+
+<table>
+<tr>
+<td width="33%"><b>01 / BUILD</b><br/>Turn ideas into working software.</td>
+<td width="33%"><b>02 / INVESTIGATE</b><br/>Learn how systems behave—and why.</td>
+<td width="33%"><b>03 / ITERATE</b><br/>Debug, rethink, improve, repeat.</td>
+</tr>
+</table>
 
 ---
 
-## `what I'm building`
+<div align="center">
+
+### `02 / CURRENTLY ON THE WORKBENCH`
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Smart Parking Management System
+#### 🎓 CholoSikhai
+**AI-integrated learning platform**
 
-A full-stack parking platform featuring parking facility management, slot booking, role-based dashboards, and dynamic pricing.
+Learning plans, course workflows, and AI-assisted learning—built around a real education problem.
 
-**Stack:** JavaScript · Node.js · Express · MongoDB
-
-<a href="https://smart-parking-management-system-two.vercel.app/index.html">Live Demo ↗</a> · <a href="https://github.com/azmainur-rahman/smart-parking-management-system">Source Code ↗</a>
+`Java` `Spring Boot` `React` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 CholoSikhai
+#### 🚗 Smart Parking Management
+**Full-stack parking platform**
 
-An AI-integrated learning platform designed around personalized learning, course management, study planning, and AI-assisted learning experiences.
+Slot management, bookings, role-based dashboards, and dynamic pricing.
 
-**Stack:** Java · Spring Boot · React · MongoDB
+`JavaScript` `Node.js` `Express` `MongoDB`
 
-<a href="https://www.azmainurrahman.me/projects/">Explore Projects ↗</a>
+[Live ↗](https://smart-parking-management-system-two.vercel.app/index.html) · [Code ↗](https://github.com/azmainur-rahman/smart-parking-management-system)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Elite Learner Academy
+#### 📝 Elite Learner Academy
+**Online IELTS CBT platform**
 
-An online IELTS CBT platform featuring timed examinations, automated evaluation, student management, and structured test experiences.
+Timed mock exams, automated evaluation, and structured online test workflows.
 
-**Stack:** MERN · Web Development
+`MERN` `Web Application`
 
-<a href="https://elitelearneracademy.org/">Visit Platform ↗</a>
+[Platform ↗](https://elitelearneracademy.org/)
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ FredoCloud Hub
+#### ☁️ FredoCloud Hub
+**Collaborative workspace**
 
-A collaborative workspace project exploring modern frontend architecture, state management, real-time communication, and cloud-based workflows.
+Exploring real-time features, modern app architecture, and cloud-oriented workflows.
 
-**Stack:** Next.js · TypeScript · Express · PostgreSQL · Prisma · Socket.IO
-
-<a href="https://www.azmainurrahman.me/projects/">Explore Projects ↗</a>
+`Next.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Socket.IO`
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More projects & contributions</b></summary>
+<summary><b>Another thing I've contributed to</b></summary>
 
-<br/>
+**SEU CampusMate** — UI improvements and a student-focused Resume Builder with PDF export and local storage.
 
-**SEU CampusMate** — Contributed UI fixes and developed a student-focused Resume Builder with PDF export and local data storage.
-
-**More experiments, projects, and details:**  
-→ [Explore my portfolio](https://www.azmainurrahman.me)
+More work and project details: [my portfolio](https://www.azmainurrahman.me)
 
 </details>
 
 ---
 
-## `my toolbox`
-
-I'm continuously learning and experimenting with these technologies.
-
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js,ts&theme=dark" />
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=spring,react,flutter,nodejs,express,html,css&theme=dark" />
-
-### Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,git,github&theme=dark" />
-
-### Environment
-
-<img src="https://skillicons.dev/icons?i=linux,vscode,idea,androidstudio,vercel&theme=dark" />
+### `03 / THE LAB — CURRENT CURIOSITIES`
 
 </div>
 
----
-
-## `currently exploring`
-
-<table>
-<tr>
-<td>🤖</td>
-<td><b>AI-powered applications</b><br/>Building practical applications with AI integration.</td>
-</tr>
-<tr>
-<td>🔬</td>
-<td><b>Computer Vision Research</b><br/>Exploring skin cancer detection, foundation models, image-type generalization, and fairness across skin tones.</td>
-</tr>
-<tr>
-<td>🏗️</td>
-<td><b>Software Engineering</b><br/>Improving architecture, maintainability, system design, and engineering fundamentals.</td>
-</tr>
-<tr>
-<td>🔐</td>
-<td><b>Application Security</b><br/>Learning to understand software not only by building it, but also by examining how it can fail.</td>
-</tr>
-</table>
+| Track | What I'm exploring |
+|:--|:--|
+| `AI / CV` | Skin-cancer detection, foundation models, image-type generalization, and fairness across skin tones. |
+| `ENGINEERING` | Backend architecture, maintainability, system design, and stronger fundamentals. |
+| `SECURITY` | Understanding how applications fail—and how to build them more thoughtfully. |
+| `PRODUCT` | Taking student and everyday problems and turning them into useful software. |
 
 ---
-
-## `milestones`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ICPC_2024-Asia_Dhaka_Regional_Online_Preliminary-56D4DD?style=for-the-badge&logo=codeforces&logoColor=black" />
+### `04 / TOOLBOX — THINGS I WORK WITH`
 
-### 🏆 Honorable Mention
+<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js,ts,spring,react,flutter,nodejs,express,mongodb,mysql,postgres,firebase,docker,git,github,linux,vscode&perline=10" alt="Technology toolbox" />
 
-**2024 ICPC Asia Dhaka Regional — Online Preliminary Contest**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Certification-C%7CPTE_Certified_Penetration_Testing_Engineer-647CE8?style=flat-square" />
-
-</div>
-
----
-
-## `github activity`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azmainur-rahman&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmainur-rahman&layout=compact&hide_border=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=azmainur-rahman&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## `contribution loop`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/snake.svg" alt="Contribution snake animation" />
+<sub>Tools are part of the journey—not the whole identity.</sub>
 
 </div>
 
@@ -205,23 +133,49 @@ I'm continuously learning and experimenting with these technologies.
 
 <div align="center">
 
-### Every project teaches me something.
-### Every bug has something to say.
-### Every version can be better.
+### `05 / A MILESTONE`
+
+<a href="https://icpc.global/">
+<img src="https://img.shields.io/badge/ICPC_2024-Asia_Dhaka_Regional_Online_Preliminary-58D6D0?style=for-the-badge&labelColor=101820" alt="ICPC 2024 Asia Dhaka Regional Online Preliminary" />
+</a>
+
+**Honorable Mention · 2024 ICPC Asia Dhaka Regional Online Preliminary Contest**
 
 <br/>
 
-**BUILD → BREAK → LEARN → REBUILD**
+<img src="https://img.shields.io/badge/CERTIFIED-C%7CPTE%20Penetration%20Testing%20Engineer-7B8CFF?style=flat-square" alt="C PTE certification" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `06 / GITHUB — RECENT FOOTPRINT`
+
+<img src="https://github-readme-stats.vercel.app/api?username=azmainur-rahman&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58D6D0&icon_color=58D6D0&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmainur-rahman&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58D6D0&text_color=C9D1D9" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=azmainur-rahman&hide_border=true&background=0D1117&ring=58D6D0&fire=58D6D0&currStreakLabel=58D6D0&sideLabels=C9D1D9&dates=7D8590" alt="Contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `07 / THE LOOP`
+
+<img src="https://raw.githubusercontent.com/azmainur-rahman/azmainur-rahman/output/snake.svg" alt="Contribution snake" />
 
 <br/>
 
-<a href="https://www.azmainurrahman.me">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/azmainur-rahman/">LinkedIn</a> ·
-<a href="https://x.com/azmainur_rahman">X</a> ·
-<a href="mailto:kaziazmainurrahman@gmail.com">Email</a>
+### BUILD → BREAK → LEARN → REBUILD
+
+<sub>Still curious. Still shipping. Still figuring it out.</sub>
 
 <br/><br/>
 
-<sub>Still learning. Still building. Not done yet. 🚀</sub>
+[PORTFOLIO](https://www.azmainurrahman.me) · [LINKEDIN](https://www.linkedin.com/in/azmainur-rahman/) · [X](https://x.com/azmainur_rahman) · [EMAIL](mailto:kaziazmainurrahman@gmail.com)
 
 </div>
